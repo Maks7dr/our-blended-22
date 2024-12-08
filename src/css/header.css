@@ -42,3 +42,7 @@
 .nav-link.active::after {
   background: #747bff;
 }
+
+.nav-item:last-child .nav-link {
+  color: #fd2744;
+}
